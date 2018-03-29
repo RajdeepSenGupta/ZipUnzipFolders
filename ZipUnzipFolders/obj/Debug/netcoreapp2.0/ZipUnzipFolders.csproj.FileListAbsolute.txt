@@ -1,0 +1,11 @@
+c:\users\rajdeep\source\repos\ZipUnzipFolders\ZipUnzipFolders\bin\Debug\netcoreapp2.0\ZipUnzipFolders.deps.json
+c:\users\rajdeep\source\repos\ZipUnzipFolders\ZipUnzipFolders\bin\Debug\netcoreapp2.0\ZipUnzipFolders.runtimeconfig.json
+c:\users\rajdeep\source\repos\ZipUnzipFolders\ZipUnzipFolders\bin\Debug\netcoreapp2.0\ZipUnzipFolders.runtimeconfig.dev.json
+c:\users\rajdeep\source\repos\ZipUnzipFolders\ZipUnzipFolders\bin\Debug\netcoreapp2.0\ZipUnzipFolders.dll
+c:\users\rajdeep\source\repos\ZipUnzipFolders\ZipUnzipFolders\bin\Debug\netcoreapp2.0\ZipUnzipFolders.pdb
+c:\users\rajdeep\source\repos\ZipUnzipFolders\ZipUnzipFolders\obj\Debug\netcoreapp2.0\ZipUnzipFolders.csprojResolveAssemblyReference.cache
+c:\users\rajdeep\source\repos\ZipUnzipFolders\ZipUnzipFolders\obj\Debug\netcoreapp2.0\ZipUnzipFolders.csproj.CoreCompileInputs.cache
+c:\users\rajdeep\source\repos\ZipUnzipFolders\ZipUnzipFolders\obj\Debug\netcoreapp2.0\ZipUnzipFolders.AssemblyInfoInputs.cache
+c:\users\rajdeep\source\repos\ZipUnzipFolders\ZipUnzipFolders\obj\Debug\netcoreapp2.0\ZipUnzipFolders.AssemblyInfo.cs
+c:\users\rajdeep\source\repos\ZipUnzipFolders\ZipUnzipFolders\obj\Debug\netcoreapp2.0\ZipUnzipFolders.dll
+c:\users\rajdeep\source\repos\ZipUnzipFolders\ZipUnzipFolders\obj\Debug\netcoreapp2.0\ZipUnzipFolders.pdb
