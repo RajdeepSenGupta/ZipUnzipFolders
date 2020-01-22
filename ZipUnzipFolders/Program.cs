@@ -40,7 +40,7 @@ namespace ZipUnzipFolders
         }
 
         /// <summary>
-        /// Method for unzipping a folder
+        /// Method for unzipping a folder - RS
         /// </summary>
         /// <param name="inputFolderPath"></param>
         /// <param name="outputFolderPath"></param>
